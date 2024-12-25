@@ -3,7 +3,7 @@
 
 I'm a student at Georgia State University in the J. Mack Robinson College of Business pursuing a business degree in Computer Information Systems. 
 I'm dedicated in understanding the Cybersecurity, Application Development and the tech industry.
-I'mvery passionate in learning and adapting to new environments. 
+I'm very passionate in learning and adapting to new environments. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pidemu&label=Profile%20views&color=0e75b6&style=flat" alt="pidemu" /> </p>
 
