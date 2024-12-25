@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Paul Idemudia</h1>
 <h3 align="center">Computer Information Systems Student @ Georgia State University</h3>
 
+I'm a student at Georgia State University in the J. Mack Robinson College of Business pursuing a business degree in Computer Information Systems. 
+I'm dedicated in understanding the Cybersecurity, Application Development and the tech industry.
+I'mvery passionate in learning and adapting to new environments. 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pidemu&label=Profile%20views&color=0e75b6&style=flat" alt="pidemu" /> </p>
 
 - 🔭 I’m currently working on **many projects**
