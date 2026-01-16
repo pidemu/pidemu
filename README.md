@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋, I'm Paul Idemudia</h1>
-<h3 align="center">Computer Information Systems Student @ Georgia State University</h3>
+## Hi 👋, I'm Paul Idemudia
 
-I'm a student at Georgia State University in the J. Mack Robinson College of Business pursuing a business degree in Computer Information Systems. 
-I'm dedicated in understanding the Cybersecurity, Application Development and the tech industry.
-I'm very passionate in learning and adapting to new environments. 
+I'm [**Paul**](https://www.linkedin.com/in/paulidemudia/), a **Georgia State University** student in the **J. Mack Robinson College of Business** pursuing a business degree in **Computer Information Systems** (CIS) with a concentration in **Cybersecurity**. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pidemu&label=Profile%20views&color=0e75b6&style=flat" alt="pidemu" /> </p>
+I have hands-on experience and working on projects and labs focused on IAM *(Idenity Access Management)*, cybersecurity tools, python development, system analysis, and database mangagement, seeking IT or cybersecurity related roles. 
 
-- 🔭 I’m currently working on **many projects**
+I have experience in strong problem-solving skills, experience working on team-based technical projects, and proven ability to learn new technologies quickly. 
 
-- 🌱 I’m currently learning **Python**
+My current focus is preparing for **CompTIA Security+ certification**, expanding my cybersecurity knowledge (networking, monitoring, threat awareness) and expand more of my knowledge on python to prepare for IT support, cybersecurity, business analyst, or systems analyst roles. 
 
-- 📫 How to reach me **pidemudia1@student.gsu.edu**
+**Connect With Me**
+- 💼 LinkedIn: https://www.linkedin.com/in/paulidemudia/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paulidemudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulidemudia" height="30" width="40" /></a>
-</p>
+## Technical Skills
+- **Programming:** Python, SQL
+- **IT & Cybersecurity:** Networking basics, access control concepts, troubleshooting, system monitoring
+- **Tools & Platforms:** GitHub, VS Code, Trello, Jira, Notion, PyChram
 
-<h3 align="left">Languages and Tools:</h3>
+## Certifications 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="12%" title="Cisco Introduction to Cybersecurity"> <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/55/original/codepath_org_logo.jpg" width="12%" title="CodePath Intro to Technical Interview Prep (TIP101)">
+
+- **CompTIA Security+** - *In Progress* 
+
+---
+⭐ Please feel free to explore my repositories for examples of my technical skills and project work.
