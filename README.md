@@ -10,6 +10,7 @@ My current focus is preparing for **CompTIA Security+ certification**, expanding
 
 **Connect With Me**
 - 💼 LinkedIn: https://www.linkedin.com/in/paulidemudia/
+- 🔐 TryHackMe: https://tryhackme.com/p/pidemu
 
 ## Technical Skills
 - **Programming:** Python, SQL
