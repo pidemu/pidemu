@@ -2,7 +2,7 @@
 
 I'm [**Paul**](https://www.linkedin.com/in/paulidemudia/), a **Georgia State University** student in the **J. Mack Robinson College of Business** pursuing a business degree in **Computer Information Systems** (CIS) with a concentration in **Cybersecurity**. 
 
-I have hands-on experience and working on projects and labs focused on IAM *(Idenity Access Management)*, cybersecurity tools, python development, system analysis, and database mangagement, seeking IT or cybersecurity related roles. 
+I have hands-on experience and working on projects and labs focused on IAM *(Identity Access Management)*, cybersecurity tools, python development, system analysis, and database management, seeking IT or cybersecurity related roles. 
 
 I have experience in strong problem-solving skills, experience working on team-based technical projects, and proven ability to learn new technologies quickly. 
 
