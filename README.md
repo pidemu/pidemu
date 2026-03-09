@@ -11,6 +11,8 @@ My current focus is preparing for **CompTIA Security+ certification**, expanding
 **Connect With Me**
 - 💼 LinkedIn: https://www.linkedin.com/in/paulidemudia/
 - 🔐 TryHackMe: https://tryhackme.com/p/pidemu
+- 🛡️ HackTheBox: https://profile.hackthebox.com/profile/019cd3e5-f05a-73ff-a955-fa84fec9f86f 
+- 💻 HackTheBox CTF: https://ctf.hackthebox.com/user/profile/936843
 
 ## Technical Skills
 - **Programming:** Python, SQL
@@ -21,7 +23,7 @@ My current focus is preparing for **CompTIA Security+ certification**, expanding
 
 <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="12%" title="Cisco Introduction to Cybersecurity"> <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/55/original/codepath_org_logo.jpg" width="12%" title="CodePath Intro to Technical Interview Prep (TIP101)">
 
-- **CompTIA Security+** - *In Progress* 
+- **CompTIA Security+** - In Progress 
 
 ---
 ⭐ Please feel free to explore my repositories for examples of my technical skills and project work.
