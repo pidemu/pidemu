@@ -17,7 +17,7 @@ My current focus is preparing for **CompTIA Security+ certification**, expanding
 ## Technical Skills
 - **Programming:** Python, SQL
 - **IT & Cybersecurity:** Networking basics, access control concepts, troubleshooting, system monitoring
-- **Tools & Platforms:** GitHub, VS Code, Trello, Jira, Notion, PyChram
+- **Tools & Platforms:** GitHub, Visual Studio Code, Trello, Jira, Notion, PyCharm
 
 ## Certifications 
 
