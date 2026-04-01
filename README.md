@@ -23,7 +23,8 @@ My current focus is preparing for **CompTIA Security+ certification**, expanding
 
 <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="12%" title="Cisco Introduction to Cybersecurity"> <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/55/original/codepath_org_logo.jpg" width="12%" title="CodePath Intro to Technical Interview Prep (TIP101)">
 
-- **CompTIA Security+** - In Progress 
+- **CompTIA Security+** - In Progress
+- **Microsoft SC-300: Identity and Access Administrator** - In Progress
 
 ---
 ⭐ Please feel free to explore my repositories for examples of my technical skills and project work.
