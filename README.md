@@ -1,12 +1,16 @@
-## Hi 👋, I'm Paul Idemudia
+## Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40px">, I'm Paul Idemudia
 
-I'm [**Paul**](https://www.linkedin.com/in/paulidemudia/), a **Georgia State University** student in the **J. Mack Robinson College of Business** pursuing a business degree in **Computer Information Systems** (CIS) with a concentration in **Cybersecurity**. 
+I'm [**Paul**](https://www.linkedin.com/in/paulidemudia/), a recent Magna Cum Laude graduate from **Georgia State University** from **J. Mack Robinson College of Business** with a B.B.A in **Computer Information Systems** (CIS), concentrating in **Cybersecurity**. 
 
-I have hands-on experience and working on projects and labs focused on IAM *(Identity Access Management)*, cybersecurity tools, python development, system analysis, and database management, seeking IT or cybersecurity related roles. 
+I'm passionate about cybersecurity, IT systems, and continuous learning. I enjoy building hands-on experience through labs, projects, and technical practice in areas like IAM, networking, and security tools.
 
-I have experience in strong problem-solving skills, experience working on team-based technical projects, and proven ability to learn new technologies quickly. 
+Currently preparing for **CompTIA Security+** and **Microsoft SC-300 Identity and Access Administrator** to strengthen my foundation in cybersecurity and identity management.
 
-My current focus is preparing for **CompTIA Security+ certification**, expanding my cybersecurity knowledge (networking, monitoring, threat awareness) and expand more of my knowledge on python to prepare for IT support, cybersecurity, business analyst, or systems analyst roles. 
+## Technical Skills & Interest
+- **Languages:** Python, SQL, HTML, CSS
+- **Tools & Technologies:** GitHub, Wireshark, Tableau, Smartsheet, Microsoft Office 365, Visual Studio Code, PyCharm
+- **Operating Systems:** Windows 10/11, macOS, Linux
+- **Cybersecurity, IAM, & IT:** Active Directory, VPN Troubleshooting, Basic Networking, Hardware/Software Troubleshooting, GIS, Phishing analysis, basic threat detection
 
 **Connect With Me**
 - 💼 LinkedIn: https://www.linkedin.com/in/paulidemudia/
@@ -14,14 +18,9 @@ My current focus is preparing for **CompTIA Security+ certification**, expanding
 - 🛡️ HackTheBox: https://profile.hackthebox.com/profile/019cd3e5-f05a-73ff-a955-fa84fec9f86f 
 - 💻 HackTheBox CTF: https://ctf.hackthebox.com/user/profile/936843
 
-## Technical Skills
-- **Programming:** Python, SQL
-- **IT & Cybersecurity:** Networking basics, access control concepts, troubleshooting, system monitoring
-- **Tools & Platforms:** GitHub, Visual Studio Code, Trello, Jira, Notion, PyCharm
-
 ## Certifications 
 
-<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="12%" title="Cisco Introduction to Cybersecurity"> <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/55/original/codepath_org_logo.jpg" width="12%" title="CodePath Intro to Technical Interview Prep (TIP101)">
+<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" title="Cisco Introduction to Cybersecurity"> <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/55/original/codepath_org_logo.jpg" width="10%" title="CodePath Intro to Technical Interview Prep (TIP101)">
 
 - **CompTIA Security+** - In Progress
 - **Microsoft SC-300: Identity and Access Administrator** - In Progress
