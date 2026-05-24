@@ -15,8 +15,6 @@ Currently preparing for **CompTIA Security+** and **Microsoft SC-300 Identity an
 **Connect With Me**
 - 💼 LinkedIn: https://www.linkedin.com/in/paulidemudia/
 - 🔐 TryHackMe: https://tryhackme.com/p/pidemu
-- 🛡️ HackTheBox: https://profile.hackthebox.com/profile/019cd3e5-f05a-73ff-a955-fa84fec9f86f 
-- 💻 HackTheBox CTF: https://ctf.hackthebox.com/user/profile/936843
 
 ## Certifications 
 
