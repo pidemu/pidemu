@@ -8,7 +8,7 @@ Currently preparing for **CompTIA Security+** and **Microsoft SC-300 Identity an
 
 ## Technical Skills & Interest
 - **Languages:** Python, SQL, HTML, CSS
-- **Tools & Technologies:** GitHub, Wireshark, Tableau, Smartsheet, Microsoft Office 365, Visual Studio Code, PyCharm
+- **Tools & Technologies:** GitHub, Wireshark, Tableau, Smartsheet, Microsoft Office 365, Visual Studio Code, PyCharm, PowerShell
 - **Operating Systems:** Windows 10/11, macOS, Linux
 - **Cybersecurity, IAM, & IT:** Active Directory, VPN Troubleshooting, Basic Networking, Hardware/Software Troubleshooting, GIS, Phishing analysis, basic threat detection
 
