@@ -1,27 +1,32 @@
-## Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40px">, I'm Paul Idemudia
+## Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40px">, I'm [**Paul Idemudia**](https://www.linkedin.com/in/paulidemudia/)
 
-I'm [**Paul**](https://www.linkedin.com/in/paulidemudia/), a recent Magna Cum Laude graduate from **Georgia State University** from **J. Mack Robinson College of Business** with a B.B.A in **Computer Information Systems** (CIS), concentrating in **Cybersecurity**. 
+A recent Magna Cum Laude graduate from **Georgia State University J. Mack Robinson College of Business** with a B.B.A in **Computer Information Systems**, concentrating in **Cybersecurity**. 
 
-I'm passionate about cybersecurity, IT systems, and continuous learning. I enjoy building hands-on experience through labs, projects, and technical practice in areas like IAM, networking, and security tools.
+Interested in Cybersecurity, Identity & Access Management (IAM), IT, Technical Support, Systems Administration, and Networking. I enjoy building hands-on experience through labs, projects, troubleshooting technical problems, and developing practical skills across security, infrastructure, and technology. 
 
 Currently preparing for **CompTIA Security+** and **Microsoft SC-300 Identity and Access Administrator** to strengthen my foundation in cybersecurity and identity management.
 
-## Technical Skills & Interest
+## Technical Skills & Interests
 - **Operating Systems:** Windows, macOS, Linux
-- **Tools & Technologies:** GitHub, Wireshark, Tableau, Smartsheet, Microsoft Office 365, Trello, Jira, Visual Studio Code, PyCharm, PowerShell, AI
-- **Languages:** Python, SQL, HTML, CSS
-- **Cybersecurity, IAM, & IT:** Active Directory, VPN Troubleshooting, Basic Networking, Hardware/Software Troubleshooting, GIS, Phishing analysis, basic threat detection, authentication concepts
+- **Cybersecurity:** Identity & Access Management (IAM), Authentication, Security Testing, Security Monitoring, Phishing analysis, Threat Detection Fundamentals
+- **IT & Systems:** Troubleshooting, Active Directory, Microsoft 365, Remote Desktop
+- **Networking & Infrastructure:** DNS, VPN, TCP/IP, Firewalls, Network Troubleshooting, Wireshark, Virtual Machines, Oracle VirtualBox
+- **Programming & Development:** Python, SQL, HTML, CSS, Git, GitHub, Visual Studio Code, PyCharm, Automation, Database Management
+- **Data & Business Technology:** Tableau, Microsoft Excel, Microsoft Office, Data Analysis, Data Visualization, Systems Analysis, Smartsheet
+- **GIS:** ArcGIS Online, GIS Metadata, Metadata Standardization, ArcGIS Dashboards
+- **Design & Other Tools:** Figma, Adobe
+
+## Certifications 
+
+- **CompTIA Security+** - *(In-Progress)*
+- **Microsoft SC-300: Identity and Access Administrator** - *(In-Progress)*
+- **Cisco Introduction to Cybersecurity** - *Oct 2025*
+- **CodePath Intro to Technical Interview Prep (TIP101)** - *Aug 2025*
 
 **Connect With Me**
 - 💼 LinkedIn: https://www.linkedin.com/in/paulidemudia/
 - 🔐 TryHackMe: https://tryhackme.com/p/pidemu
 
-## Certifications 
-
-<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" title="Cisco Introduction to Cybersecurity"> <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/55/original/codepath_org_logo.jpg" width="10%" title="CodePath Intro to Technical Interview Prep (TIP101)">
-
-- **CompTIA Security+** *(In-Progress)*
-- **Microsoft SC-300: Identity and Access Administrator** *(In-Progress)*
 
 ---
 ⭐ Please feel free to explore my repositories for examples of my technical skills and project work.
