@@ -11,7 +11,7 @@ Currently preparing for **CompTIA Security+** and **Microsoft SC-300 Identity an
 - **Cybersecurity:** Identity & Access Management (IAM), Authentication, Security Testing, Security Monitoring, Phishing analysis, Threat Detection Fundamentals
 - **IT & Systems:** Troubleshooting, Active Directory, Microsoft 365, Remote Desktop
 - **Networking & Infrastructure:** DNS, VPN, TCP/IP, Firewalls, Network Troubleshooting, Wireshark, Virtual Machines, Oracle VirtualBox
-- **Programming & Development:** Python, SQL, HTML, CSS, Git, GitHub, Visual Studio Code, PyCharm, Automation, Database Management
+- **Programming & Development:** Python, SQL, HTML, CSS, PowerShell, Git, GitHub, Visual Studio Code, PyCharm, Database Management
 - **Data & Business Technology:** Tableau, Microsoft Excel, Microsoft Office, Data Analysis, Data Visualization, Systems Analysis, Smartsheet
 - **GIS:** ArcGIS Online, GIS Metadata, Metadata Standardization, ArcGIS Dashboards
 - **Design & Other Tools:** Figma, Adobe
